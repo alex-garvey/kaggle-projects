@@ -9,3 +9,5 @@
 #### 5) Create the embedding matrix
 #### 6) Build and train the model (Input -> Embedding -> LSTM -> Dropout -> Dense)
 #### 7) Generate predictions
+
+Note: as this was my first NLP project, I relied heavily on the examples found here: https://keras.io/examples/nlp/pretrained_word_embeddings/
